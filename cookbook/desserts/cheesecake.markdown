@@ -37,7 +37,7 @@ The graham crackers can be crushed using the small holed grinder on the large Ho
 
 *	16 ounces cream cheese (2 boxes)
 *	2 eggs 
-*	<sup>1</sup>/<sub>3</sub> cups honey 
+*	<sup>1</sup>/<sub>3</sub> cup honey 
 *	1 teaspoon vanilla 
 
 ### Directions
