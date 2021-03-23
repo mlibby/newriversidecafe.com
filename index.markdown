@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 The New Riverside Cafe was (mostly) a vegetarian restaurant owned and operated by a collective/cooperative.
 
