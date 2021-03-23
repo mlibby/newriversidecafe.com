@@ -1,18 +1,12 @@
 ---
-layout: page
-title: About
+layout: default
+title: About The Riv
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The New Riverside Cafe was (mostly) a vegetarian restaurant owned and operated by a collective/cooperative.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The Riv was founded in 1970 by Episcopal priest, Father William Teska, on the corner of 19th and Riverside
+in the West Bank neighborhood of Minneapolis, Minnesota, USA. In 1971 it moved to the corner of Cedar and Riverside in that same neighborhood.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+In 1984 the cafe underwent a major renovation and finally succumbed to financial problems, closing in 1997.
