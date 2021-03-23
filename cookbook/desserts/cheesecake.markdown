@@ -23,9 +23,9 @@ Preheat oven to 325&deg;
 
 ### Ingredients
 
-*	4 tbsp  butter 
-*	1 <sup>1</sup>/<sub>4</sub> cups crushed graham crackers 
-*	1 tsp cinnamon 
+*	4 tablespoons butter 
+*	1<sup>1</sup>/<sub>4</sub> cups crushed graham crackers 
+*	1 teaspoon cinnamon 
 
 ### Directions
 
@@ -35,10 +35,10 @@ The graham crackers can be crushed using the small holed grinder on the large Ho
 
 ### Ingredients
 
-*	16 oz cream cheese (2 boxes)
+*	16 ounces cream cheese (2 boxes)
 *	2 eggs 
 *	<sup>1</sup>/<sub>3</sub> cups honey 
-*	1 tsp vanilla 
+*	1 teaspoon vanilla 
 
 ### Directions
 
@@ -48,9 +48,9 @@ Beat cream cheese in large Hobart until smooth and creamy, taking care to scrape
 
 ### Ingredients
 
-*	1 tub sour cream (8 oz)
-*	2 tbsp honey 
-*	<sup>1</sup>/<sub>2</sub> tsp vanilla 
+*	8 ounces sour cream (1 small tub)
+*	2 tablespoons honey 
+*	<sup>1</sup>/<sub>2</sub> teaspoon vanilla 
 
 ### Directions
 
