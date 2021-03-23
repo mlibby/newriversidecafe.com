@@ -4,6 +4,8 @@ title: Cookbook
 permalink: /cookbook/
 ---
 
+# About the Cookbook
+
 The cookbook is going to take a while to whip into shape for home cooking. The recipes we
 used in the Riv's kitchen were written to be useful in running a restaurant. So they 
 reference machines the home cook probably doesn't have, like a Hobart mixer; the quantites
@@ -28,3 +30,9 @@ and have reduced the ingredients down to a more reasonable cookbook size, if you
 any comments on what the directions <em>should</em> say, or anything at all, really.
 
 Just knowing that anyone is out there using these recipes would be a great morale boost!
+
+# The Recipes
+
+## Dessert
+
+<a href="/cookbook/desserts/cheesecake">Riverside Cheesecake</a>
