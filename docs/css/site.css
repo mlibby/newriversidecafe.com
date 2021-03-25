@@ -104,6 +104,13 @@ nav .nav-links {
     margin-bottom: 0.5rem;
 }
 
+
+/* 
+.recipe main {
+    float: left;
+    width: 50%;
+} */
+
 .recipe .nutrition {
     float: right;
     margin-left: 4rem;
@@ -116,6 +123,21 @@ nav .nav-links {
 .recipe ol li {
     margin-bottom: 0.5rem;
 }
+
+
+/* .recipe section {
+    clear: both;
+}
+
+.recipe section .ingredients {
+    width: 50%;
+    float: left;
+}
+
+.recipe section .directions {
+    width: 50%;
+    float: right;
+} */
 
 .recipe ul {
     padding: 0;
