@@ -42,6 +42,8 @@ h5,
 h6 {
     font-weight: bold;
     line-height: 1.0;
+    margin-top: 0.66em;
+margin-bottom: 0.66em;
 }
 
 h1 {
@@ -99,21 +101,137 @@ nav .nav-links {
     display: inline-block;
 }
 
-.recipe ul li {
-    list-style: none;
-    margin-bottom: 0.5rem;
+.recipe main {
+  width: calc(100% - 24rem);
 }
 
-
-/* 
-.recipe main {
-    float: left;
-    width: 50%;
-} */
-
 .recipe .nutrition {
-    float: right;
+    position: absolute;
+    top: calc(120px + 5.75rem);
+    right: 2rem;
     margin-left: 4rem;
+    width: 18rem;
+    border: 0.33rem solid black;
+    padding: 0.5rem;
+}
+
+.recipe .nutrition dt.calories {
+  font-size: 1.66rem;
+  font-weight: bold;
+  width: 66%;
+}
+
+.recipe .nutrition dt.calories::before {
+  content: "Amount per serving";
+  font-size: 0.75rem;
+  clear: both;
+  float: left;
+  width: 100%;
+}
+
+.recipe .nutrition dd.calories {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: right;
+  padding-top: 0.6rem;
+}
+
+.recipe .nutrition dd.calories::after {
+  clear: both;
+  float: left;
+  width: 116%;
+  content: "% Daily Value*";
+  border-top: 0.2rem solid black;
+  border-bottom: 1px solid black;
+  font-size: 0.75rem;
+  padding-top: 0.2rem;
+  margin-left: -2.5rem;
+}
+
+.recipe .nutrition dd.calories .dv {
+  display: none;
+}
+
+.recipe .nutrition dd.serving-size {
+  text-align: right;
+}
+
+.recipe .nutrition dd.sub,
+.recipe .nutrition dd.total,
+.recipe .nutrition dd.vitamin {
+line-height: 1.33rem;
+  border-bottom: 1px solid black;
+  margin-left: auto;
+}
+
+.recipe .nutrition dd.sub .dv,
+.recipe .nutrition dd.total .dv {
+  font-weight: bold;
+}
+
+.recipe .nutrition dd.sub .dv,
+.recipe .nutrition dd.total .dv,
+.recipe .nutrition dd.vitamin .dv {
+  text-align: right;
+  float: right;
+}
+
+.recipe .nutrition dl {
+  padding: 0;
+  margin: 0;
+}
+
+.recipe .nutrition dt {
+  float: left;
+  margin-right: 0.5rem;
+}
+
+.recipe .nutrition dt.sub {
+  padding-left: 1rem;
+}
+
+.recipe .nutrition dt.sub,
+.recipe .nutrition dt.total,
+.recipe .nutrition dt.vitamin {
+  clear: both;
+  line-height: 1.33rem;
+}
+
+.recipe .nutrition dt.total {
+  font-weight: bold;
+}
+
+.recipe .nutrition .vitamin.first {
+  border-top: 0.66rem solid black;
+}
+
+.recipe .nutrition .vitamin.last {
+  border-bottom: 0.33rem solid black;
+}
+
+.recipe .nutrition h2 {
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid black;
+}
+
+.recipe .nutrition .footnote {
+  margin: 0.25rem 0 0.5rem 0;
+  padding: 0;
+  font-size: 0.8rem;
+}
+
+.recipe .nutrition .serving-size {
+  font-weight: bold;
+  padding-bottom: 0.25rem;
+  border-bottom: 0.66rem solid black;
+}
+
+.recipe .nutrition .source {
+  border-top: 1px solid black;
+  margin: 0;
+  padding: 0;
 }
 
 .recipe ol {
@@ -124,26 +242,30 @@ nav .nav-links {
     margin-bottom: 0.5rem;
 }
 
-
-/* .recipe section {
-    clear: both;
-}
-
-.recipe section .ingredients {
-    width: 50%;
-    float: left;
-}
-
-.recipe section .directions {
-    width: 50%;
-    float: right;
-} */
-
 .recipe ul {
-    padding: 0;
+  padding: 0;
+}
+
+.recipe ul li {
+  list-style: none;
+  margin-bottom: 0.5rem;
+}
+
+.recipe ul li .qty {
+  display: inline-block;
+  width: 4rem;
+}
+
+.recipe ul li .measure {
+  display: inline-block;
+  width: 1.5rem;
 }
 
 @media print {
+    .recipe main {
+      width: 100%;
+    }
+
     .recipe nav .nav-links {
         display: none;
     }
